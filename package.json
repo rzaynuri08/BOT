@@ -1,7 +1,7 @@
 {
-  "name": "SykesBot",
+  "name": "ReyBot",
   "version": "8.0.0",
-  "description": "SykesBot By HannSykes",
+  "description": "Reybot By RYZNBot",
   "main": "index.js",
   "directories": {
     "lib": "lib"
